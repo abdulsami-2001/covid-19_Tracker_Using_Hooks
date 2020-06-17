@@ -14,3 +14,9 @@ body{
     align-items: center;
     flex-direction: column;
 }
+
+.image{
+
+    width: 300px;
+    margin-top: 50px;
+}
